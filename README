@@ -1,0 +1,11 @@
+This is one of my previous homework assignments. I really hated this assignment at the time because most of the code was provided for me. The concept is really helpful if I or someone else wanted to create an interactive card game.
+
+This assignment was already 'done' but it required understanding of the code that was already written and working with the limitations based on the methods and classes my professor had made. Most of my part had to do with understanding accessors and manipulators and which accessors were needed based on the code that was given to us. In addition to that, I had to flesh-out empty conditional statements.
+
+These assignments might be useful for some of you out there, but their real intent is to document my progress... and hopefully look back and feel proud at some point?
+
+I would say this is the only assignment that was mostly completed for us. Later assignments are 100% from scratch. Some of the files I will provide in HW-assignment-based repos may not include all of the files as they were included but not done by me. Special thanks to Julia C. Burns for helping me in this assignment.
+
+What does it do? It's not a card game, the program loads up five piles of cards. The user is able to drag as many cards to different piles and mass-flip over cards by double clicking.
+
+There are 4 main files and a PNG screenshot of the program in action.
